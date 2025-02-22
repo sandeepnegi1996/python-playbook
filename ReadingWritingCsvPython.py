@@ -23,9 +23,8 @@ with open('employee_birthday.csv') as csv_file:
     
 
 
+
 # Reading CSV files into a dictionar with csv
-
-
 
 with open('employee_birthday.csv', mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
