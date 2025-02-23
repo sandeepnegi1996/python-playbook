@@ -1,0 +1,10 @@
+{'x-amz-id-2': 'E7DNtZD02JPcwIAtLvMfuWIpfgbbtQ60IKSbPLaXmRE4w8hrkQzyjTjeP3h4CFQ2J5PZfVxwMgac3a4D3/JouTAGDn3PevKN',
+ 'x-amz-request-id': '7EBP80VRGFPQ7H4B', 'Date': 'Sun,
+    23 Feb 2025 08: 31: 11 GMT', 'Last-Modified': 'Thu,
+    19 Dec 2024 18: 48: 43 GMT', 
+    'ETag': '"25a6f028e99bc792d6cdf32c4959d3be"', 
+    'x-amz-server-side-encryption': 'AES256', 'Accept-Ranges': 'bytes', 
+    'Content-Type': 'application/zip', 
+    'Content-Length': '6232563', 
+    'Server': 'AmazonS3'
+}
